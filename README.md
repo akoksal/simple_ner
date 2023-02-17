@@ -1,2 +1,2 @@
-# simple_ner
-Simple NER training notebook with HuggingFace
+# Simple NER
+Simple NER training notebook with HuggingFace. 
